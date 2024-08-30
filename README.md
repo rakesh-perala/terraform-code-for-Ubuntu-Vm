@@ -1,6 +1,6 @@
-************************************************************Here's a reusable and industry-acceptable Terraform code setup for deploying an Ubuntu VM using Terraform. The setup includes a main.tf file containing the core logic and a variables.tf file defining all the variables to keep the code modular and easy to reuse.
+Terraform code setup for deploying an Ubuntu VM using Terraform. The setup includes a main.tf file containing the core logic and a variables.tf file defining all the variables to keep the code modular and easy to reuse.
 
-****************************************************
+*****************************
 How to Use code 
 *****************************
 
